@@ -1,0 +1,1 @@
+java -jar calculator_app.jar
